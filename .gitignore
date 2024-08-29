@@ -20,7 +20,8 @@ doc/api/
 *.js.deps
 *.js.map
 
-/android
-/windows
-/macos
+android/
+windows/
+macos/
+ios/
 lib/firebase_options.dart
