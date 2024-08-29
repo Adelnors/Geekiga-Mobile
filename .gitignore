@@ -22,6 +22,5 @@ doc/api/
 
 /android
 /windows
-/ios
 /macos
 lib/firebase_options.dart
